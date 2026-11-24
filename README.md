@@ -9,6 +9,10 @@ The program uses different classes to start battles against different enemies. I
 - Python 3.x
 - [`readchar`](https://pypi.org/project/readchar/) (installed in the steps below)
 
+## Gameplay
+
+![Gameplay](images/gameplay.gif)
+
 ## Install and try
 
 1. Clone the repository:
