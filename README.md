@@ -15,6 +15,8 @@ The program uses different classes to start battles against different enemies. I
 
 ## Install and try
 
+> **Note:** the game needs all three `.py` files in the same folder (`green_forest.py`, `starting_battles.py` and `pokemon_battles.py`), so clone or download the whole repository.
+
 1. Clone the repository:
 
 ```bash
